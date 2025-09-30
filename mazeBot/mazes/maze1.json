@@ -1,0 +1,42 @@
+{
+    "size": [5, 5],
+    "start": [0, 0],
+    "end": [4, 4],
+    "maze": [
+        [
+            { "up": true,  "left": true,  "right": false, "down": true,  "start": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": true,  "down": false }
+        ],
+        [
+            { "up": true,  "left": true,  "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": false, "left": false, "right": true,  "down": false }
+        ],
+        [
+            { "up": true,  "left": true,  "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": false, "left": false, "right": true,  "down": false }
+        ],
+        [
+            { "up": true,  "left": true,  "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": false, "left": false, "right": true,  "down": false }
+        ],
+        [
+            { "up": true,  "left": true,  "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": true,  "left": false, "right": false, "down": true },
+            { "up": false, "left": false, "right": true,  "down": true,  "end": true }
+        ]
+    ]
+}

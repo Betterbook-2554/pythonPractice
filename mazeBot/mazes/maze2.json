@@ -1,0 +1,89 @@
+{
+    "size": [8, 8],
+    "start": [0, 0],
+    "end": [3, 4],
+    "maze": [
+        [
+            { "up": true, "left": true,  "down": true, "start": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "right": true }
+        ],
+        [
+            { "up": true, "left": true,  "right": false },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "right": true },
+            { "right": true }
+        ],
+        [
+            { "left": true,  "right": true },
+            { "up": true,  "left": true },
+            { "up": true,  "down": true },
+            { "up": true,  "down": true },
+            { "up": true,  "down": true },
+            { "up": true,  "left": true, "right": true },
+            { "left": true, "right": true },
+            { "left": true, "right": true }
+        ],
+        [
+            { "left": true,  "right": true },
+            { "left": true,  "right": true  },
+            { "up": true, "left": true },
+            { "up": true,  "down": true },
+            { "up": true, "left": true, "right": true },
+            { "left": true, "right": true },
+            { "left": true, "right": true },
+            { "left": true, "right": true }
+        ],
+        [
+            { "left": true,  "right": true },
+            { "left": true,  "right": true },
+            { "left": true,  "right": true  },
+            { "up": true,  "left": true,  "down": true, "end": true },
+            { "down": true, "right": true },
+            { "left": true, "right": true },
+            { "left": true, "right": true },
+            { "left": true, "right": true }
+        ],
+        [
+            { "left": true,  "right": true },
+            { "left": true, "right": true },
+            { "up": false, "down": false },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "left": true,  "right": true },
+            { "left": true,  "right": true },
+            { "left": true, "right": true }
+        ],
+        [
+            { "left": true,  "right": true },
+            { "left": true,  "down": true },
+            { "up": true,  "down": true },
+            { "up": true,  "down": true },
+            { "up": true,  "down": true },
+            { "up": true,  "down": true },
+            { "right": true,  "down": true },
+            { "left": true, "right": true }
+        ],
+        [
+            { "left": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true },
+            { "up": true, "down": true  },
+            { "up": true, "down": true },
+            { "right": true,  "down": true }
+        ]
+    ]
+}
+
+
