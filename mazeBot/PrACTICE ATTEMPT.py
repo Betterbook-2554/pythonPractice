@@ -23,6 +23,7 @@ def main():
     print(maze.render_ascii(robot.get_position()))
     #Me 
     #mE2
+    # Test
     # Manual mode
     while True:
         try:
